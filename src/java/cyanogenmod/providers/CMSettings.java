@@ -961,7 +961,7 @@ public final class CMSettings {
          * Developer options - Navigation Bar show switch
          * @hide
          */
-        public static final String DEV_FORCE_SHOW_NAVBAR = "dev_force_show_navbar";
+        public static final String NAVIGATION_BAR_SHOW = "navigation_bar_show";
 
         /**
          * The keyboard brightness to be used while the screen is on.
